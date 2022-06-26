@@ -22,7 +22,7 @@ Posteriormente se realizó la creación del proyecto frontal en **TypeScript** c
 
 
 ## Software utilizado 💻
-This project is used by the following companies:
+Este proyecto fue realizado con:
 
 - VISUAL STUDIO IDE 2022
 - VISUAL STUDIO CODE
